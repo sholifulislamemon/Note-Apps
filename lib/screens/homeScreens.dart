@@ -46,7 +46,7 @@ class Homescreens extends StatelessWidget {
               ),
              const  Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
                 Text(
-                  "  Today hello ",
+                  "  Today ",
                   style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
                 ),
                 Text("View All    ",
